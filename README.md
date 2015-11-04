@@ -24,3 +24,8 @@ Some Examples:
 
 ## Git2gether
 [D3 Visu](http://quantnet.wiwi.hu-berlin.de/d3/ia/)
+
+<img src="visu_d3_1.png" width="350" />
+<img src="visu_d3_2.png" width="350" />
+<img src="visu_d3_3.png" width="350" />
+<img src="visu_d3_4.png" width="350" />
