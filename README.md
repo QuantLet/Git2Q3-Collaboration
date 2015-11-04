@@ -33,10 +33,8 @@ Some Examples:
 #### Clustered by repository/book/project: one Python quantlet from ISP selected
 <img src="visu_d3_2.png" />
 
-#### title2
-title3
+#### Clustered by repository/book/project: one R quantlet from MMSTAT selected
 <img src="visu_d3_3.png" />
 
-#### title2
-title4
+#### Integrated search function: all quantlets having Lukas or Awdesch as author are highlighted
 <img src="visu_d3_4.png" />
