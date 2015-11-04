@@ -22,19 +22,21 @@ Some Examples:
 <img src="gh_visu_SRM_collaboration_4.png" width="230" />
 <img src="gh_visu_Ready_collaboration_5.png" width="230" />
 
+
 ## Git2gether
 ###[D3 Visu](http://quantnet.wiwi.hu-berlin.de/d3/ia/)
 
 
+#### All quantlets from GitHub
+<img src="visu_d3_1.png" />
 
-#### title1
-<img src="visu_d3_1.png" /> title1
+#### Clustered by repository/book/project: one Python quantlet from ISP selected
+<img src="visu_d3_2.png" />
 
 #### title2
-<img src="visu_d3_2.png" /> title2
-
 title3
 <img src="visu_d3_3.png" />
 
+#### title2
 title4
 <img src="visu_d3_4.png" />
