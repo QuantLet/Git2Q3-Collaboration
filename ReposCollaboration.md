@@ -1,6 +1,6 @@
 
 
-## Collaboration Timeline of selected repositories of this organisation:
+## Collaboration Timeline and Visualization of selected repositories of this organisation:
 
 
 ### [Ready - Repository](https://github.com/QuantLet/Ready)

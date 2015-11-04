@@ -14,7 +14,7 @@ Some Examples:
 
 
 
-## Collaboration Timeline of selected repositories of this organisation:
+## Collaboration Visualization of selected repositories of this organisation:
 
 [go to link](ReposCollaboration.md)
 
