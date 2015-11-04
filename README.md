@@ -17,4 +17,4 @@ Some Examples:
 ## Collaboration Visualization of selected repositories of this organisation:
 
 [go to Collaboration Visualization](ReposCollaboration.md)
-![ISP](gh_visu_ISP_collaboration_1.png | width = 200)
+![ISP](gh_visu_ISP_collaboration_1.png "title" = 200x200)
