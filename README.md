@@ -18,6 +18,6 @@ Some Examples:
 
 [go to Collaboration Visualization](ReposCollaboration.md)
 
-<img src="gh_visu_ISP_collaboration_1.png" width="200" />
-<img src="gh_visu_Ready_collaboration_5.png" width="200" />
-<img src="gh_visu_SRM_collaboration_4.png" width="200" />
+<img src="gh_visu_ISP_collaboration_1.png" width="250" />
+<img src="gh_visu_SRM_collaboration_4.png" width="250" />
+<img src="gh_visu_Ready_collaboration_5.png" width="250" />
