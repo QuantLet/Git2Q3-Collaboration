@@ -25,11 +25,10 @@ Some Examples:
 ## Git2gether
 [D3 Visu](http://quantnet.wiwi.hu-berlin.de/d3/ia/)
 
-title1
-<img src="visu_d3_1.png" />
 
-title2
-<img src="visu_d3_2.png" />
+<img src="visu_d3_1.png" /> title1
+
+<img src="visu_d3_2.png" /> title2
 
 title3
 <img src="visu_d3_3.png" />
