@@ -7,21 +7,21 @@
 
 ![Ready](gh_visu_Ready_collaboration_5.png)
 
+
 ### [Big Data Analysis - Repository](https://github.com/QuantLet/big_data_analysis)
 
 ![big_data](gh_visu_big_data_collaboration_1.png)
+
 
 ### [SRM - Repository](https://github.com/QuantLet/SRM)
 
 ![SRM](gh_visu_SRM_collaboration_4.png)
 
-(#isp)
 
 ### [ISP - Repository](https://github.com/lborke/statsintro_python)
 
 ![ISP](gh_visu_ISP_collaboration_1.png)
 ![ISP](gh_visu_ISP_collaboration_2.png)
-
 
 
 ### [MMSTAT - Repository](https://github.com/QuantLet/MMSTAT)

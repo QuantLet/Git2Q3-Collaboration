@@ -16,5 +16,5 @@ Some Examples:
 
 ## Collaboration Visualization of selected repositories of this organisation:
 
-[go to link](ReposCollaboration.md)
+[go to Collaboration Visualization](ReposCollaboration.md)
 
