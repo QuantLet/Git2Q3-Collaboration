@@ -1,7 +1,7 @@
 
 ![http://quantnet.wiwi.hu-berlin.de/style/banner.png](http://quantnet.wiwi.hu-berlin.de/style/banner.png)
 
-# ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **Git2Q3-Collaboration** <img src="github_logo.png" width="70" />
+# <img src="github_logo.png" width="100" /> **Git2Q3-Collaboration** ![qlogo](qlogo.png)![qlogo](qlogo.png)![qlogo](qlogo.png)
 
 
 ## Collaborative development of Quantlets
