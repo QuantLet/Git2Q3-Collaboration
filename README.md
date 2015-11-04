@@ -16,7 +16,7 @@ Some Examples:
 
 ## Collaboration Timeline of selected repositories of this organisation:
 
-[go to mmstat](#MMSTAT)
+[go to mmstat](#mmstat)
 
 ### [Ready - Repository](https://github.com/QuantLet/Ready)
 
@@ -38,7 +38,7 @@ Some Examples:
 ### MMSTAT
 [MMSTAT - Repository](https://github.com/QuantLet/MMSTAT)
 
-# Header1
+(#mmstat)
 
 ![MMSTAT1](gh_visu_MMSTAT_collaboration_1.png)
 ![MMSTAT2](gh_visu_MMSTAT_collaboration_2.png)
