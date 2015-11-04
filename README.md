@@ -23,14 +23,14 @@ Some Examples:
 <img src="gh_visu_Ready_collaboration_5.png" width="230" />
 
 ## Git2gether
-[D3 Visu](http://quantnet.wiwi.hu-berlin.de/d3/ia/)
+###[D3 Visu](http://quantnet.wiwi.hu-berlin.de/d3/ia/)
 
 
 
-### title1
+#### title1
 <img src="visu_d3_1.png" /> title1
 
-### title2
+#### title2
 <img src="visu_d3_2.png" /> title2
 
 title3
