@@ -4,7 +4,7 @@
 # ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **Git2Q3-Collaboration**
 
 
-## Collaboration Timeline
+## Collaborative development of Quantlets
 
 Some Examples:
 
@@ -13,6 +13,9 @@ Some Examples:
 3. [Collaboration_Example_MVAghadatail](https://github.com/QuantLet/Collaboration_Example_MVAghadatail)
 
 
-![Picture1](distribution comparison.png)
-![Picture1](Tail comparison.png)
+
+## Collaboration Timeline of selected repositories of this organisation:
+
+![MMSTAT1](gh_visu_MMSTAT_collaboration_1.png)
+![MMSTAT2](gh_visu_MMSTAT_collaboration_2.png)
 
