@@ -24,7 +24,7 @@ Some Examples:
 
 
 ## Git2gether
-###[D3 Visu](http://quantnet.wiwi.hu-berlin.de/d3/ia/)
+###[D3 Visualization: created by GitHub-R-API implementation](http://quantnet.wiwi.hu-berlin.de/d3/ia/)
 
 
 #### All quantlets from GitHub
