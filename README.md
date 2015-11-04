@@ -17,7 +17,8 @@ Some Examples:
 ## Collaboration Timeline of selected repositories of this organisation:
 
 [go to mmstat](#mmstat)
-[go to mmstat](###MMSTAT)
+[go to isp](#isp)
+
 
 ### [Ready - Repository](https://github.com/QuantLet/Ready)
 
@@ -31,15 +32,12 @@ Some Examples:
 
 ![SRM](gh_visu_SRM_collaboration_4.png)
 
-### [ISP - Repository](https://github.com/lborke/statsintro_python)
+### [ISP - Repository](https://github.com/lborke/statsintro_python) (#isp)
 
 ![ISP](gh_visu_ISP_collaboration_1.png)
 ![ISP](gh_visu_ISP_collaboration_2.png)
 
-###MMSTAT
-[MMSTAT - Repository](https://github.com/QuantLet/MMSTAT)
-
-(#mmstat)
+### [MMSTAT - Repository](https://github.com/QuantLet/MMSTAT) (#mmstat)
 
 ![MMSTAT1](gh_visu_MMSTAT_collaboration_1.png)
 ![MMSTAT2](gh_visu_MMSTAT_collaboration_2.png)
