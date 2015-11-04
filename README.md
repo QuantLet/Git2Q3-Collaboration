@@ -27,10 +27,10 @@ Some Examples:
 
 
 
-![Collaboration_Example_MVAlaplacedis](visu_d3_1.png) title1
-
+### title1
 <img src="visu_d3_1.png" /> title1
 
+### title2
 <img src="visu_d3_2.png" /> title2
 
 title3
