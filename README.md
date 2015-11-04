@@ -36,5 +36,5 @@ Some Examples:
 #### Clustered by repository/book/project: one R quantlet from MMSTAT selected
 <img src="visu_d3_3.png" />
 
-#### Integrated search function: all quantlets having Lukas or Awdesch as author are highlighted
+#### Integrated search function:<br/> all quantlets having Lukas or Awdesch as author are highlighted
 <img src="visu_d3_4.png" />
