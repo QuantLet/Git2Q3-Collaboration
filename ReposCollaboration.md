@@ -25,7 +25,6 @@
 
 
 ### [MMSTAT - Repository](https://github.com/QuantLet/MMSTAT)
-(#mmstat)
 
 ![MMSTAT1](gh_visu_MMSTAT_collaboration_1.png)
 ![MMSTAT2](gh_visu_MMSTAT_collaboration_2.png)
