@@ -20,6 +20,10 @@ Some Examples:
 
 ![Ready](gh_visu_Ready_collaboration_5.png)
 
+### [SRM - Repository](https://github.com/QuantLet/SRM)
+
+![SRM](gh_visu_SRM_collaboration_4.png)
+
 ### [MMSTAT - Repository](https://github.com/QuantLet/MMSTAT)
 
 ![MMSTAT1](gh_visu_MMSTAT_collaboration_1.png)
