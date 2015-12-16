@@ -31,7 +31,7 @@ Some Examples:
 
 
 #### All quantlets from GitHub
-<img src="visu_d3_1.png" />
+<img src="gh_q_unclustered.png" />
 
 #### Clustered by repository/book/project: one Python quantlet from ISP selected
 <img src="visu_d3_2.png" />
