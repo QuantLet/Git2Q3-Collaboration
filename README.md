@@ -54,3 +54,7 @@ Some Examples:
 #### Clustered via LSA model, 16 clusters: 9 of 10 Qs with the word "crix" are assigned to the cluster 'crix, index, cryptocurr(ancy), ...'. This cluster consists entirely of "crix"-Qs.
 <img src="lsa_16cl_crix.png" />
 
+<br/>
+#### Clustered via LSA model, 16 clusters: 7 of 8 Qs with the word "tenet" are assigned to the cluster 'return, dax, index, ...'.
+<img src="lsa_16cl_tenet.png" />
+
