@@ -46,3 +46,7 @@ Some Examples:
 #### Clustered via LSA model, 16 clusters: all 3 Qs with the word "qnet" are assigned to the cluster 'mds, scale, multidimension, ...'
 <img src="lsa_16cl_qnet.png" />
 
+<br/>
+#### Clustered via LSA model, 16 clusters: all 3 Qs with the word "sentiment" are assigned to the cluster 'visual, mean, estim(ation), ...'
+<img src="lsa_16cl_sentiment.png" />
+
