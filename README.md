@@ -50,3 +50,8 @@ Some Examples:
 #### Clustered via LSA model, 16 clusters: all 3 Qs with the word "sentiment" are assigned to the cluster 'visual, mean, estim(ation), ...'
 <img src="lsa_16cl_sentiment.png" />
 
+<br/>
+#### Clustered via LSA model, 16 clusters: all 9 of 10 Qs with the word "crix" are assigned to the cluster 'crix, index, cryptocurr(ancy), ...'.
+This cluster consists entirely of "crix"-Qs.
+<img src="lsa_16cl_crix.png" />
+
