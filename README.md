@@ -42,7 +42,7 @@ Some Examples:
 #### Integrated search function:<br/> all quantlets having Lukas or Awdesch as author are highlighted
 <img src="visu_d3_4.png" />
 
-
+<br/>
 #### Clustered via LSA model, 16 clusters: 
 <img src="lsa_16cl_qnet.png" />
 
