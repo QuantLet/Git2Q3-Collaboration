@@ -43,6 +43,6 @@ Some Examples:
 <img src="visu_d3_4.png" />
 
 <br/>
-#### Clustered via LSA model, 16 clusters: 
+#### Clustered via LSA model, 16 clusters: all 3 Qs with the word "qnet" are assigned to the cluster 'mds, scale, multidimension, ...'
 <img src="lsa_16cl_qnet.png" />
 
