@@ -26,6 +26,7 @@ Some Examples:
 <img src="gh_visu_Ready_collaboration_5.png" width="230" />
 
 <img src="Presentations/Animation1.gif" width="728" />
+<img src="Presentations/Animation2.gif" width="718" />
 
 
 ## Git2gether
