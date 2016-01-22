@@ -25,6 +25,8 @@ Some Examples:
 <img src="gh_visu_SRM_collaboration_4.png" width="230" />
 <img src="gh_visu_Ready_collaboration_5.png" width="230" />
 
+<img src="Presentations/Animation1.gif" width="728" />
+
 
 ## Git2gether
 ###[Interactive D3 Visualization:<br/>created by GitHub-R-API implementation](http://quantnet.wiwi.hu-berlin.de/d3/ia/)
