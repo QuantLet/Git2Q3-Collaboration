@@ -28,6 +28,9 @@ Some Examples:
 Collaboration on MVA-Ready over time, created via GitHub-Api:
 <img src="Presentations/Animation2.gif" width="718" />
 
+The whole GitHub universe, all users with more than 2 followers
+<img src="Presentations/Animation3.gif" width="720" />
+
 
 ## Git2gether
 ###[Interactive D3 Visualization:<br/>created by GitHub-R-API implementation](http://quantnet.wiwi.hu-berlin.de/d3/ia/)
