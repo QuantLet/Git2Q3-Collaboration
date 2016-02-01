@@ -1,7 +1,7 @@
 
-[<img src="https://github.com/QuantLet/Git2Q3-Collaboration/blob/master/pictures/banner.png" width="880" alt="Visit QuantNet">](http://quantlet.de/index.php?p=info)
+[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="880" alt="Visit QuantNet">](http://quantlet.de/index.php?p=info)
 
-# <img src="github_logo.png" width="120" /> **Git2Q3-Collaboration** ![qlogo](qloqo.png)![qlogo](qloqo.png)![qlogo](qloqo.png)
+# <img src="github_logo.png" width="120" /> **Git2Q3-Collaboration** ![qlogo](qloqo.png)![qlogo](qloqo.png)
 
 ## Build software better, together, now (QuantNet 2.0 @ GitHub)
 <img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/RapidPrototyping.png" width="880" />
