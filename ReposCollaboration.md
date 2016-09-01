@@ -1,11 +1,9 @@
 
-
 ## Collaboration Timeline and Visualization of selected repositories of this organisation:
 
+### [Ready - Repository](https://github.com/QuantLet/MVA-Ready)
 
-### [Ready - Repository](https://github.com/QuantLet/Ready)
-
-![Ready](gh_visu_Ready_collaboration_5.png)
+![Ready](png/gh_visu_Ready_collaboration_5.png)
 
 
 ### [Big Data Analysis - Repository](https://github.com/QuantLet/big_data_analysis)
