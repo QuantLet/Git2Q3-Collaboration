@@ -21,14 +21,14 @@ Some Examples:
 
 [go to Collaboration Visualization](ReposCollaboration.md)
 
-<img src="gh_visu_ISP_collaboration_1.png" width="230" />
-<img src="gh_visu_SRM_collaboration_4.png" width="230" />
-<img src="gh_visu_Ready_collaboration_5.png" width="230" />
+<img src="png/gh_visu_ISP_collaboration_1.png" width="230" />
+<img src="png/gh_visu_SRM_collaboration_4.png" width="230" />
+<img src="png/gh_visu_Ready_collaboration_5.png" width="230" />
 
-Collaboration on MVA-Ready over time, created via GitHub-Api:
+### Collaboration on MVA-Ready over time, created via GitHub-Api:
 <img src="Presentations/Animation2.gif" width="718" />
 
-The whole GitHub universe, all users with more than 2 followers
+### The whole GitHub universe, all users with more than 2 followers
 <img src="Presentations/Animation3.gif" width="720" />
 
 
