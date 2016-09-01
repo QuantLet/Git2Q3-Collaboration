@@ -16,7 +16,6 @@ Some Examples:
 3. [Collaboration_Example_MVAghadatail](https://github.com/QuantLet/Collaboration_Example_MVAghadatail)
 
 
-
 ## Collaboration Visualization of selected repositories of this organisation:
 
 [go to Collaboration Visualization](ReposCollaboration.md)
@@ -37,30 +36,29 @@ Some Examples:
 
 
 #### All quantlets from GitHub - unclustered
-<img src="gh_q_unclustered.png" />
+<img src="png/gh_q_unclustered.png" />
 
 #### Clustered by repository/book/project: one Python quantlet from ISP selected
-<img src="visu_d3_2.png" />
+<img src="png/visu_d3_2.png" />
 
 #### Clustered by repository/book/project: one R quantlet from MMSTAT selected
-<img src="visu_d3_3.png" />
+<img src="png/visu_d3_3.png" />
 
 #### Integrated search function:<br/> all quantlets having Lukas or Awdesch as author are highlighted
-<img src="visu_d3_4.png" />
+<img src="png/visu_d3_4.png" />
 
 <br/>
 #### Clustered via LSA model, 16 clusters: all 3 Qs with the word "qnet" are assigned to the cluster 'mds, scale, multidimension, ...'
-<img src="lsa_16cl_qnet.png" />
+<img src="png/lsa_16cl_qnet.png" />
 
 <br/>
 #### Clustered via LSA model, 16 clusters: all 3 Qs with the word "sentiment" are assigned to the cluster 'visual, mean, estim(ation), ...'
-<img src="lsa_16cl_sentiment.png" />
+<img src="png/lsa_16cl_sentiment.png" />
 
 <br/>
 #### Clustered via LSA model, 16 clusters: 9 of 10 Qs with the word "crix" are assigned to the cluster 'crix, index, cryptocurr(ancy), ...'. This cluster consists entirely of "crix"-Qs.
-<img src="lsa_16cl_crix.png" />
+<img src="png/lsa_16cl_crix.png" />
 
 <br/>
 #### Clustered via LSA model, 16 clusters: 7 of 8 Qs with the word "tenet" are assigned to the cluster 'return, dax, index, ...'.
-<img src="lsa_16cl_tenet.png" />
-
+<img src="png/lsa_16cl_tenet.png" />
